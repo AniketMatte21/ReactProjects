@@ -101,7 +101,7 @@ function App() {
             setAllowCharacters(prev=>!prev)
           }}
           />
-          AllowedNumbers
+          AllowedCharacters
           </label>
         </div>
         <button className='bg-orange-600 p-1.5 text-2xl rounded-md hover:bg-amber-500' 
